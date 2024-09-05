@@ -28,7 +28,7 @@ exports[`renders homepage unchanged 1`] = `
           target="_blank"
         >
           By
-           
+
           <img
             alt="Vercel Logo"
             class="dark:invert"
@@ -63,15 +63,15 @@ exports[`renders homepage unchanged 1`] = `
     >
       <a
         class="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
-        href="https://nextjs.org/Fourth Test!?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
+        href="https://nextjs.org/Five Test!?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
         rel="noopener noreferrer"
         target="_blank"
       >
         <h2
           class="mb-3 text-2xl font-semibold"
         >
-          Fourth Test!
-           
+          Five Test!
+
           <span
             class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
           >
@@ -94,7 +94,7 @@ exports[`renders homepage unchanged 1`] = `
           class="mb-3 text-2xl font-semibold"
         >
           Learn
-           
+
           <span
             class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
           >
@@ -117,7 +117,7 @@ exports[`renders homepage unchanged 1`] = `
           class="mb-3 text-2xl font-semibold"
         >
           Templates
-           
+
           <span
             class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
           >
@@ -140,7 +140,7 @@ exports[`renders homepage unchanged 1`] = `
           class="mb-3 text-2xl font-semibold"
         >
           Deploy
-           
+
           <span
             class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
           >

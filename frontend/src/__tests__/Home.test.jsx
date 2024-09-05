@@ -3,10 +3,10 @@ import { render, screen } from "@testing-library/react";
 import Home from "@/app/page";
 
 describe("Home", () => {
-  it("should have Fourth Test! text", () => {
+  it("should have Five Test! text", () => {
     render(<Home />); // Arrange
 
-    const element = screen.getByText("Fourth Test!"); // Act
+    const element = screen.getByText("Five Test!"); // Act
 
     expect(element).toBeInTheDocument(); // Assert
   });
