@@ -28,7 +28,7 @@ exports[`renders homepage unchanged 1`] = `
           target="_blank"
         >
           By
-
+           
           <img
             alt="Vercel Logo"
             class="dark:invert"
@@ -71,7 +71,7 @@ exports[`renders homepage unchanged 1`] = `
           class="mb-3 text-2xl font-semibold"
         >
           Fourth Test!
-
+           
           <span
             class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
           >
@@ -94,7 +94,7 @@ exports[`renders homepage unchanged 1`] = `
           class="mb-3 text-2xl font-semibold"
         >
           Learn
-
+           
           <span
             class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
           >
@@ -117,7 +117,7 @@ exports[`renders homepage unchanged 1`] = `
           class="mb-3 text-2xl font-semibold"
         >
           Templates
-
+           
           <span
             class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
           >
@@ -140,7 +140,7 @@ exports[`renders homepage unchanged 1`] = `
           class="mb-3 text-2xl font-semibold"
         >
           Deploy
-
+           
           <span
             class="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none"
           >
