@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "next lint",
     "lint-staged": "lint-staged",
-    "test": "jest",
+    "test": "jest -u",
     "test:watch": "jest --watch",
     "code-quality": "eslint . --ext .js,.ts --format json -o report.json"
   },
